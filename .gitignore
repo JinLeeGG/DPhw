@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+# Keep course-provided materials local.
+course_tests/
+*.zip
+*.pdf
